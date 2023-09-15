@@ -1,0 +1,21 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "ui": "workspace:*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "eslint-config-custom": "workspace:*",
+    "poker": "workspace:*",
+    "eslint": "8.44.0",
+    "tsconfig": "workspace:*",
+    "@types/node": "^20.3.3",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "typescript": "^5.1.6"
+  }
+}
